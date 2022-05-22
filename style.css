@@ -1,0 +1,36 @@
+body{
+   background-color: lavender;
+}
+
+.nav{
+    text-align: right;
+    display: flex;
+
+}
+nav ul li{
+    
+    display: inline;
+    margin-top:-10% ;
+    padding: 50px;
+    width: 30px;
+    float: right;
+    font-size: 50px;
+    color: purple;
+}
+nav ul li a{
+    font-size: medium;
+    color: #000;
+    font-style: sans-serif;
+    display: inline;
+    font-weight: bold;
+}
+.shop{
+    margin-top:5%;
+    font-size: 15px;
+    margin-left: 12%;
+    
+}
+.make{
+    margin-left: 12%;
+
+}
